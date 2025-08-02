@@ -1,0 +1,16 @@
+.form__input {
+  width: 100%;
+  padding: 22px 33px;
+  border: 1px solid #c1c1c1;
+  font-size: 16px;
+  line-height: 148%;
+  color: #181818;
+  box-sizing: border-box;
+}
+
+.form__input::placeholder {
+  font-family: 'Lato', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 148%;
+  color: #a9a9a9;
+}

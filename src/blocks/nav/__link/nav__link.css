@@ -1,0 +1,25 @@
+.nav__link {
+  font-family: 'Cabin', Arial, sans-serif;
+  font-size: 25px;
+  line-height: 116%;
+  font-weight: 600;
+  color: #fff;
+}
+
+.nav__link:hover {
+  color: #ffcc4a;
+  border-bottom: 2px solid #ffcc4a;
+  opacity: .75;
+}
+
+@media (max-width: 1070px) {
+  .nav__link {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 799px) {
+  .nav__link {
+    font-size: 12px;
+  }
+}

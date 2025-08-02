@@ -1,0 +1,14 @@
+.info__title {
+  font-family: 'Cabin', Arial, sans-serif;
+  margin-bottom: 13px;
+  font-size: 45px;
+  line-height: 116%;
+  font-weight: 700;
+  color: #181818;
+}
+
+@media (max-width: 550px) {
+  .info__title {
+    font-size: 25px;
+  }
+}

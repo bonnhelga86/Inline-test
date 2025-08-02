@@ -1,0 +1,16 @@
+.info__badge {
+  margin-bottom: 6px;
+  padding: 1px 15px;
+  background-color: #ffcc4a;
+  border-radius: 20px;
+  letter-spacing: 1px;
+  font-size: 16px;
+  line-height: 148%;
+  color: #181818;
+}
+
+@media (max-width: 550px) {
+  .info__badge {
+    font-size: 12px;
+  }
+}

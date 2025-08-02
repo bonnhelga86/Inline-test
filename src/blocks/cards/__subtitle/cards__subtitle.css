@@ -1,0 +1,12 @@
+.cards__subtitle {
+  font-size: 16px;
+  line-height: 148%;
+  font-weight: 400;
+  color: #ffcc4a;
+}
+
+@media (max-width: 1000px) {
+  .cards__subtitle {
+    font-size: 14px;
+  }
+}

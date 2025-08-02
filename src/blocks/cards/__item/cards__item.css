@@ -1,0 +1,5 @@
+.cards__item {
+  position: relative;
+  width: fit-content;
+  cursor: pointer;
+}

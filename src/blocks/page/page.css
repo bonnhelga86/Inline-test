@@ -1,0 +1,19 @@
+.page {
+  font-family: 'Lato', Arial, sans-serif;
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  max-width: 1200px;
+  min-width: 352px;
+  min-height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 799px) {
+  .page {
+    width: 90vw;
+  }
+}

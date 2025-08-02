@@ -1,0 +1,4 @@
+.info__item {
+  display: flex;
+  gap: 16px;
+}

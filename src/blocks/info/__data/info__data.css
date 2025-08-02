@@ -1,0 +1,13 @@
+.info__data {
+  font-family: 'Cabin', Arial, sans-serif;
+  font-size: 20px;
+  line-height: 116%;
+  font-weight: 600;
+  color: #181818;
+}
+
+@media (max-width: 550px) {
+  .info__data {
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,6 @@
+.nav__list {
+  padding: 1.61vw 2.29vw;
+  display: flex;
+  justify-content: center;
+  gap: 2.03vw;
+}

@@ -1,0 +1,26 @@
+.footer {
+  margin-bottom: 136px;
+  display: flex;
+  gap: 91px;
+}
+
+@media (max-width: 1240px) {
+  .footer {
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 999px) {
+  .footer {
+    margin-left: 0;
+    flex-direction: column;
+    align-items: center;
+    gap: 65px;
+  }
+}
+
+@media (max-width: 550px) {
+  .footer {
+    gap: 35px;
+  }
+}

@@ -1,0 +1,15 @@
+.cards__list {
+  padding: 24px 25px;
+  display: grid;
+  gap: 25px;
+  grid-template-columns: repeat(3, 1fr);
+  box-sizing: border-box;
+}
+
+@media (max-width: 799px) {
+  .cards__list {
+    padding: 8px 10px;
+    display: flex;
+    gap: 0;
+  }
+}

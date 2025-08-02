@@ -1,0 +1,9 @@
+.info {
+  max-width: 420px;
+}
+
+@media (max-width: 550px) {
+  .info {
+    margin-left: 10px;
+  }
+}

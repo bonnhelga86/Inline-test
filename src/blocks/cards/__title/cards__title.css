@@ -1,0 +1,14 @@
+.cards__title {
+  font-family: 'Cabin', Arial, sans-serif;
+  margin-bottom: 4px;
+  font-size: 25px;
+  line-height: 116%;
+  font-weight: 600;
+  color: #fff;
+}
+
+@media (max-width: 999px) {
+  .cards__title {
+    font-size: 16px;
+  }
+}

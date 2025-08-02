@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("./Lato-Regular.woff2") format("woff2"),
+      url("./Lato-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("./Lato-Semibold.woff2") format("woff2"),
+      url("./Lato-Semibold.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Cabin';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("./Cabin-SemiBold.woff2") format("woff2"),
+      url("./Cabin-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Cabin';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url("./Cabin-Bold.woff2") format("woff2"),
+      url("./Cabin-Bold.woff") format("woff");
+}

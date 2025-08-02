@@ -1,0 +1,13 @@
+.nav {
+  width: 85.5%;
+  margin: 0 auto;
+  background-color: #181818;
+  border-radius: 30px;
+}
+
+@media (max-width: 799px) {
+  .nav {
+    width: 100%;
+    height: auto;
+  }
+}

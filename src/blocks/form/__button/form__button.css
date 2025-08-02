@@ -1,0 +1,18 @@
+.form__button {
+  font-family: 'Lato', Arial, sans-serif;
+  width: fit-content;
+  padding: 16px 27px;
+  background-color: #181818;
+  border-radius: 42px;
+  border: none;
+  font-size: 18px;
+  line-height: 160%;
+  font-weight: 600;
+  color: #fff;
+}
+
+@media (max-width: 799px) {
+  .form__button {
+    width: 100%;
+  }
+}

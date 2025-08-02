@@ -1,0 +1,11 @@
+.info__list {
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+}
+
+@media (max-width: 550px) {
+  .info__list {
+    gap: 35px;
+  }
+}

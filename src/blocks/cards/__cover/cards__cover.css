@@ -1,0 +1,13 @@
+.cards__cover {
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  background-color: #181818;
+  border-radius: 20px;
+  position: absolute;
+}
+
+.cards__cover:hover {
+  opacity: .75;
+  backdrop-filter: blur(8px)
+}
