@@ -1,1 +1,5 @@
-# Inline-test
+# Как развернуть проект?
+
+- При помощи git clone git@github.com:bonnhelga86/Inline-test.git скопировать проект в выбранную директорию
+- Выполнить установку npm install
+- Открыть проект в режиме разроботки при помощи команды npm run dev
